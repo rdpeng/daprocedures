@@ -1,5 +1,6 @@
 # Building an R Package (starting off)
 
+1. Run the pre-flight check list
 18. Create new R script
 11. Save R script in "R" sub-directory of package
 12. Write R code/functions ---> save file
