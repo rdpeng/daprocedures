@@ -1,7 +1,9 @@
 infile.path <- dir("lists", full.names = TRUE)
 
-con <- file("TOC.md", "w")
-writeLines("# Table of Contents", con)
+con <- file("README.md", "w")
+start <- readLines("README0.md")
+writeLines(start, con)
+writeLines("## Table of Contents\n", con)
 
 titles <- sapply(infile.path, function(x) readLines(x, 1))
 titles <- sub("^#+ +", "", titles)
