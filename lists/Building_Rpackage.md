@@ -1,4 +1,4 @@
-# Building an R Package (starting off)
+# R Packages: Beginning Development
 
 1. Run the pre-flight check list
 18. Create new R script
