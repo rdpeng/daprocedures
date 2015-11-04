@@ -15,5 +15,6 @@
 14. Click More ---> “Configure Build Tools…”
 15. Check “Generate documentation with Roxygen”
 16. Check “Build & Reload” in the Roxygen Options —> Click OK
-17. Click OK in Project Options
+17. Under “Check Package”, add `--as-cran`.
+18. Click OK in Project Options
 
