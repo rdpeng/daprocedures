@@ -15,5 +15,5 @@
 14. Click More ---> “Configure Build Tools…”
 15. Check “Generate documentation with Roxygen” --> Click the "Configure..." button
 16. Check “Build & Reload” in the Roxygen Options —> Click OK
-17. Click OK in Project Options
+17. Click OK in Project Build Tools Options
 
