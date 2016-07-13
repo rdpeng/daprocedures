@@ -8,7 +8,7 @@
 7. Enter package name
 9. Verify that project **subdirectory** name does not contain any spaces
 8. Click "Create Project"
-8. Delete bolierplate code and `hello.R` file
+8. Delete bolierplate code and `hello.R` file in the `R` directory
 9. Goto the `man` directory and delete the `hello.Rd` file
 9. In File browser, click on the package name to go to the top level directory
 10. Click “Build” tab in environment browser
