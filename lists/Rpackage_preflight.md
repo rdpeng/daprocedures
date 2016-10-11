@@ -3,7 +3,8 @@
 1. Install latest version of R
 2. Install latest version of RStudio
 3. Open RStudio
-4. Install `devtools` package (may take a few minutes)
+4. Install `devtools` package (may take a few minutes) or update packages
+4. Install `roxygen2` package
 5. Click on Project ---> New Project… ---> New Directory ---> R Package
 7. Enter package name
 9. Verify that project **subdirectory** name does not contain any spaces
