@@ -1,7 +1,7 @@
 # Building R Packages Pre-Flight Check List
 
-1. Install latest version of R
-2. Install latest version of RStudio
+1. Install latest version of R [from CRAN](https://cran.rstudio.com)
+2. Install latest version of RStudio Desktop [from RStudio's web site](https://www.rstudio.com/products/rstudio/download/#download)
 3. Open RStudio
 4. Install `devtools` package (may take a few minutes) or update packages
 4. Install `roxygen2` package
