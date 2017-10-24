@@ -7,7 +7,7 @@
 4. Install `roxygen2` package
 5. Click on Project ---> New Project… ---> New Directory ---> R Package
 7. Enter package name
-9. Verify that project **subdirectory** name does not contain any spaces
+9. Verify that project **subdirectory** path does not contain any spaces
 8. Click "Create Project"
 8. Delete bolierplate code and `hello.R` file in the `R` directory
 9. Goto the `man` directory and delete the `hello.Rd` file
