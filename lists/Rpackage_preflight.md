@@ -12,6 +12,7 @@
 8. Delete bolierplate code and `hello.R` file in the `R` directory
 9. Goto the `man` directory and delete the `hello.Rd` file
 9. In File browser, click on the package name to go to the top level directory
+9. Delete the `NAMESPACE` file (you will use `roxygen2` to auto-generate this file)
 10. Click “Build” tab in environment browser
 14. Click More ---> “Configure Build Tools…”
 15. Check “Generate documentation with Roxygen” --> Click the "Configure..." button
