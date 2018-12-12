@@ -5,13 +5,11 @@
 3. Open RStudio
 4. Install `devtools` package (may take a few minutes) or update packages
 4. Install `roxygen2` package
-5. Click on Project ---> New Project… ---> New Directory ---> R Package
+5. Click on Project ---> New Project… ---> New Directory
+6. Click on "R Package using devtools" (you may need to scroll down in the menu)
 7. Enter package name
 9. Verify that project **subdirectory** path does not contain any spaces
 8. Click "Create Project"
-8. Delete bolierplate code and `hello.R` file in the `R` directory
-9. Goto the `man` directory and delete the `hello.Rd` file
-9. In File browser, click on the package name to go to the top level directory
 9. Delete the `NAMESPACE` file (you will use `roxygen2` to auto-generate this file)
 10. Click “Build” tab in environment browser
 14. Click More ---> “Configure Build Tools…”
