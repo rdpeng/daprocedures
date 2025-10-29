@@ -14,6 +14,6 @@
 10. Click “Build” tab in environment browser
 14. Click More ---> “Configure Build Tools…”
 15. Check “Generate documentation with Roxygen” --> Click the "Configure..." button
-16. Check “Build & Reload” in the Roxygen Options —> Click OK
+16. Under "Automatically roxygenize when running:" make sure all 3 boxes are checked —> Click OK
 17. Click OK in Project Build Tools Options
 
