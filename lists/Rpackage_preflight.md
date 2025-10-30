@@ -7,7 +7,7 @@
 4. Install `roxygen2` package
 5. Click on Project ---> New Project… ---> New Directory
 6. Click on "R Package using devtools" (you may need to scroll down in the menu)
-7. Enter package name
+7. Enter package name in the "Directory name:" field
 9. Verify that project **subdirectory** path does not contain any spaces
 8. Click "Create Project"
 9. Delete the `NAMESPACE` file (you will use `roxygen2` to auto-generate this file)
