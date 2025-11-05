@@ -2,6 +2,7 @@
 
 1. Install latest version of R [from CRAN](https://cran.r-project.org)
 2. Install latest version of RStudio Desktop [from Posit's web site](https://posit.co/download/rstudio-desktop/#download)
+3. On WINDOWS: Install the latest RTools [from the R for Windows site](https://cran.r-project.org/bin/windows/Rtools/)
 5. Open RStudio
 6. Install `devtools` package (may take a few minutes) or update packages
 4. Install `roxygen2` package
