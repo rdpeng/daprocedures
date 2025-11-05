@@ -10,7 +10,6 @@
 7. Enter package name in the "Directory name:" field
 9. Verify that project **subdirectory** path does not contain any spaces
 8. Click "Create Project"
-9. Delete the `NAMESPACE` file (you will use `roxygen2` to auto-generate this file)
 10. Click “Build” tab in environment browser
 14. Click More ---> “Configure Build Tools…”
 15. Check “Generate documentation with Roxygen” --> Click the "Configure..." button
